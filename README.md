@@ -12,3 +12,5 @@ Structure:
     - TodoItem; each item have: id, task, completed;
 
 useEffect - for saving Todos, whenever they change; using LocalStorage
+
+Check it live on: https://todo-react-local-storage.herokuapp.com/
